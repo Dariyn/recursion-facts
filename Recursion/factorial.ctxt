@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=factorial
+comment1.params=user
+comment1.target=factorial(int)
+comment2.params=n
+comment2.target=int\ facts(int)
+numComments=3
